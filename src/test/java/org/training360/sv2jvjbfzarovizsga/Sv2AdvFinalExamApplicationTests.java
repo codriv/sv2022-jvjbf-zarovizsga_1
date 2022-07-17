@@ -1,4 +1,4 @@
-package org.training360.sv2022jvjbfzarovizsga;
+package org.training360.sv2jvjbfzarovizsga;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
